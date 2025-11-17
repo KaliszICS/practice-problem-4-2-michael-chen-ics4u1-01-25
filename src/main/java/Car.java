@@ -1,3 +1,9 @@
+/**
+ * Class to define a car
+ * @author Michael Chen
+ * @version 1.0.0
+ */
+
 public class Car {
     private String make;
     private String model;

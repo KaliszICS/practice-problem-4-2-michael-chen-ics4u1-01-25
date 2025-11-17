@@ -1,3 +1,9 @@
+/**
+ * Class to define a dog
+ * @author Michael Chen
+ * @version 1.0.0
+ */
+
 public class Dog {
     private String name;
     private String breed;
